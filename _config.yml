@@ -1,0 +1,25 @@
+# Site settings
+timezone: Toronto
+baseurl: "" 
+url: "http://mrandrewandrade.github.io" 
+
+title: Andrew Andrade's Curriculum Vitae
+author: Andrew Andrade
+portrait: "/img/andrew_andrade.jpg"
+
+#flickr_user: ""
+#flickr_api_key: "" 
+
+description: > # this means to ignore newlines until "baseurl:"
+    The curriculum vitae of Andrew Andrade. See Andrew's professional experience.
+subheading: > # this means to ignore newlines until "baseurl:"
+    Designer  •  Developer  •  Data Scientist <br><br>
+
+
+ 
+# Handling Reading
+safe: true
+encoding: utf-8
+
+# Build settings
+markdown: kramdown

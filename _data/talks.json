@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2013-11-20 00:00:00",
+    "title": "Starting Success: 2 Million Minutes of Highschool",
+    "location": "PortCredit Secondary School",
+    "downloads": [
+      { "href": "/inc/2millionminutes.pdf", "desc": "Slides (PDF, 1.6 MiB)" },
+      { "href": "/inc/2millionminutes.pdf", "desc": "Portable Prezi (ZIP, 56.1 MiB)" }
+    ]
+  },
+  {
+    "date": "2015-06-24 00:00:00",
+    "title": "R Programming 101",
+    "location": "uWaterloo Stats Club",
+    "downloads": [
+      {
+        "href": "https://github.com/uWaterlooDataTeam/r-programming-tutorial/raw/master/r-programming-reference.pdf",
+        "desc": "Slides (PDF)"
+      },
+      { "href": "https://github.com/uWaterlooDataTeam/r-programming-tutorial", "desc": "Source (Github)" }
+    ]
+  }
+]

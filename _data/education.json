@@ -1,0 +1,50 @@
+[
+  {
+    "company": "University of Waterloo",
+    "caption": "insert caption",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2015/05 - Present, ",
+    "position": "Mechatronics Engineering (Candidate for BASc)",
+    "thumbnail": "/img/uwaterloo.jpg"
+  },
+  {
+    "company": "National University of Singapore",
+    "caption": "insert caption",
+    "location": "Singapore",
+    "date": "2015/01 - 2015/04, ",
+    "position": "Engineering Exchange Student",
+    "thumbnail": "/img/nus.jpg"
+  },
+  {
+    "company": "Startup School (YCombinator)",
+    "caption": "insert caption",
+    "location": "Remote (Silicon Valley (USA), Waterloo (Canada), Singapore)",
+    "date": "2014/09 - 2014/12, ",
+    "position": "Startup School 2014 Cohort",
+    "thumbnail": "/img/startupschool.jpg"
+  },
+  {
+    "company": "University of Calgary",
+    "caption": "insert caption",
+    "location": "Calgary, Alberta (Canada)",
+    "date": "2012/09 - 2012/12, ",
+    "position": "Associate Engineering Student",
+    "thumbnail": "/img/uofc.jpg"
+  },
+  {
+    "company": "University of Waterloo",
+    "caption": "insert caption",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2011/09 - 2013/12 (Dropped out) , ",
+    "position": "Mechatronics Engineering (Candidate for BASc)",
+    "thumbnail": "/img/uwaterloo.jpg"
+  },
+  {
+    "company": "Port Credit Secondary School ",
+    "caption": "insert caption",
+    "location": "Mississauga, Ontario (Canada)",
+    "date": "2007/09 - 2011/06, ",
+    "position": "Regional SciTech and SHSM in Manufacturing OSSD",
+    "thumbnail": "/img/pcss.jpg"
+  }
+]

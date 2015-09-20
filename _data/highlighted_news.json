@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2014-06-21 00:00:00",
+    "location": "Waterloo Engineering",
+    "links": [
+      {
+        "href": "https://www.facebook.com/uWaterlooEngineering/posts/10152345127489962",
+        "desc": "Link to Article"
+      }
+    ],
+    "title": " Speaking with Mr. Stephan Harper, Prime Minister of Canada about PetroPredict"
+  },
+  {
+    "date": "2015-03-14 00:00:00",
+    "location": "University of Waterloo and Waterloo Engineering Front Page",
+    "links": [{ "href": "/inc/frontpage.jpg", "desc": "Screenshot (JPEG, 300 KiB)" }],
+    "title": "Front Page of Waterloo Engineering"
+  },
+  {
+    "date": "2015-03-31 00:00:00",
+    "location": "Mississauga News",
+    "links": [
+      {
+        "href": "http://www.mississauga.com/news-story/5533716-mississauga-s-andrew-andrade-is-canada-s-best-intern/",
+        "desc": "Link to News Article"
+      }
+    ],
+    "title": "Mississauga's Andrew Andrade is Canada's best intern"
+  },
+  {
+    "date": "2014-09-30 00:00:00",
+    "location": "uWaterloo's Student Success Blog",
+    "links": [
+      {
+        "href": "https://uwaterloo.ca/student-success/blog/post/excelling-entrepreneurship-thanks-campus-support",
+        "desc": "Link to Article"
+      }
+    ],
+    "title": "Excelling in Entrepreneurship Due to on Campus Support"
+  },
+  {
+    "date": "2014-09-06 00:00:00",
+    "location": "Waterloo Record's Technology Spotlight (in print)",
+    "links": [
+      {
+        "href": "inc/petropredict_technology_spotlight_waterloo_record.pdf",
+        "desc": "Link to Article Scan"
+      }
+    ],
+    "title": "PetroPredict Technology Spotlight on the Waterloo Record"
+  }
+]

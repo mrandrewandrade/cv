@@ -1,0 +1,123 @@
+Open Rack Battery Backup Unit Debug Card(Link)
+February 2014 – April 2014
+
+Designed and prototyped a debug card for Open Rack on the compute compute project in 24 hours at the hackathon.
+
+Fully open sourced here: http://www.hackster.io/372/ocp14hackathon
+
+Team members:
+
+        Andrew Andrade, Derek Jouppi
+
+Solenoid Actuated Microrobot(Link)
+December 2012 – September 2013
+
+Mechanical, industrial and product design of a stage for a solenoid controlled microrobot.
+
+Team members:
+
+        Andrew Andrade, MacLean Kuraitis
+
+Laptop Teardown and mSATA SSD installation(Link)
+June 2013
+
+• Tore down laptop and installed mSATA SSD
+
+Team members:
+
+        Andrew Andrade, Chris Thiele, Caleb Amlesom
+
+Minimalistic Bridge Design and Fabrication(Link)
+May 2012 – August 2012
+
+Team members:
+
+        Andrew Andrade, Sven Wehrmann, Digvijay Makwana, Bhaveya Dhall
+
+ElectroMagnetic Micro Actuation Robot(Link)
+September 2011 – December 2012
+
+Designed and fabricated an integrated magnetic actuation with a sub-micron robot control system for ICRA micro mobile robotic challenge.
+
+Team members:
+
+        Andrew Andrade, Dushanth Seevaratnam, Michael Leung, Max Palumbo, Khanjan Desai
+
+Mini Sumo Robotics Competition(Link)
+September 2011 – December 2011
+
+• Programmed the sumo robot using Arduino
+• Build the control mechanics by soldering components onto PCBs building the Arduino platform
+• Created preliminary designs using SolidWorks and soldered the metal chassis and components
+
+Team members:
+
+        Andrew Andrade, Chris Thiele, Kartthik Kumarasamy, Sven Wehrmann
+
+Motor Dissection(Link)
+September 2011
+
+• Disassembled and re-assembled a two stroke engine
+• Tested the efficiency of the engine
+• Sketched engine components demonstrating technical drafting skills
+
+Team members:
+
+        Andrew Andrade, Andrew Choi
+
+Plastic Injection Mold Design and Fabrication using CNC(Link)
+January 2011 – June 2011
+Custom Built and Overclocked Computer(Link)
+October 2009
+Skills Ontario and Vex Robotics(Link)
+September 2009 – June 2011
+
+Team members:
+
+        Andrew Andrade, Chris Thiele, Jon Gomes
+
+Hydrogen Fuel Cell Car
+
+• Integrated chemistry course concepts learnt to assemble and modify the hydrogen fuel cell car performing all necessary calculations.
+• Optimized car design and mechanism so as to achieve maximum run time
+Automatic Poker Chip Sorter
+
+• Designed and assembled an automatic poker chip sorter
+• Installed sensors, motors, switches and buttons
+• Programmed dispensing, sorting and collecting algorithms in Robot C, Arduino and C++
+
+Team members:
+
+        Andrew Andrade, Joshua Furtado
+
+Traffic Signal Simulation
+
+• Designed ladder logic and created state diagram for the system
+• Created simulation using PicsPro
+
+Team members:
+
+        Andrew Andrade, Joshua Furtado
+
+Finite Element Analysis of Weather Effects on a High Gain Omni Directional Wifi Antenna
+
+• Developed a mathematical model for a cantilever beam
+• Solved for displacements, moments and shear forces at all nodes applying boundary conditions
+• Coded functions in Matlab to solve the overall ODE (ordinary differential equation)
+• Built model in machine shop and measured displacement using strain gauge
+• Displacement obtained from numerical model matched up with physical model
+
+Team members:
+
+        Andrew Andrade, Joshua Furtado
+
+Line Following Robot
+
+• Created PCB, brought up board, and debugged circuit
+• Installed, calibrated and interfaced with various sensors
+• Programmed micro-controller to follow line path
+• Troubleshooted various hardware and software related issues
+Sound Clip Time and Frequency Filtering
+
+• Designed a filter system in Matlab that smoothens the signal and another that detects changes in the signal
+• Implemented a band stop filter removing the human voice from the clip

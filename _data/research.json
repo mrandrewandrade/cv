@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Singapore University of Technology and Design (SUTD)",
+    "caption": "insert caption",
+    "location": "Singapore",
+    "date": "2015/01 - 2015/04, ",
+    "position": "Artificial Intelligence and Self Driving Vehicle Visting Researcher (Part time)",
+    "thumbnail": "/img/sutd.jpg"
+  },
+  {
+    "company": "Waterloo Institute for Sustanable Energy",
+    "caption": "insert caption",
+    "location": "University of Waterloo, Ontario (Canada)",
+    "date": "2013/01 - 2013/04, ",
+    "position": "Undergraduate Research Assistant",
+    "thumbnail": "/img/wise.jpg"
+  },
+  {
+    "company": "Institute for Quantum Computing",
+    "caption": "insert caption",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2010/07 - 2010/09, ",
+    "position": "Summer Research Student",
+    "thumbnail": "/img/iqc.jpg"
+  }
+]

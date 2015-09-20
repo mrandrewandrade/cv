@@ -1,0 +1,61 @@
+[
+  {
+    "key": "kingpin",
+    "title": "OCP hackathon Winner: Kingpin Debug Card",
+    "date": "2014-01-31",
+    "caption": "Simple debug card for the OpenRack V2's Battery Backup Unit which provides instant visualization for any issus",
+    "authors": ["Andrew Andrade", "Derek Joupi"],
+    "thumbnail": "/img/kingpin.jpg",
+    "downloads": [
+      { "href": "http://www.hackster.io/372/ocp14hackathon", "desc": "Full Project (hackster)" },
+      { "href": "https://upverter.com/dmhjoupp/67c971c45790061b/hackathon/", "desc": "Circuit (Upverter)" },
+      {
+        "href": "http://www.opencompute.org/blog/ocp-hackathon-winner-the-codeless-hack/",
+        "desc": "Blog (OpenCompute)"
+      }
+    ]
+  },
+  {
+    "key": "rememberingLKY",
+    "title": "Remembering LKY using Twitter Analytics",
+    "date": "2015-04-21",
+    "caption": "Custom Twitter scrapper, cleaning and anlaytics in python and [R] used to create an news infographic.",
+    "authors": ["Andrew Andrade", "Lim Jia Hui Hazel", "Koh Yi Ning"],
+    "thumbnail": "/img/remeberingLKY.jpg",
+    "downloads": [
+      { "href": "/inc/rememberingLKY.png", "desc": "Final Visualization (PNG, 8.6 MiB)" },
+      { "href": "/inc/rememberingLKY.pdf", "desc": "Design Document (PDF, 1.4 MiB)" },
+      {
+        "href": "https://github.com/mrandrewandrade/remembering-LKY-using-twitter-analytics",
+        "desc": "Code (Github)"
+      }
+    ]
+  },
+  {
+    "key": "twitchplayshardware",
+    "title": "Twitch Plays Hardware: IRC Controlled NintendoDS",
+    "date": "2014-03-31",
+    "caption": "A (guide to building) Nintendo 3DS controlled by Twitch.tv stream chat using arduino.",
+    "authors": ["Andrew Andrade", "Derek Joupi"],
+    "thumbnail": "/img/twitch.jpg",
+    "downloads": [
+      { "href": "https://www.hackster.io/392/twitchplayshardware", "desc": "Full Project (hackster)" },
+      { "href": "https://github.com/mrandrewandrade/TwitchPlaysHardware", "desc": "Code (Github)" },
+      { "href": "https://instagram.com/p/mMZzM9tT-l/", "desc": "Hackathon Win Photo (instagram)" }
+    ]
+  },
+  {
+    "key": "titanium_edc",
+    "title": "Titanium Product Design",
+    "date": "2014-07-05",
+    "caption": "Contract manufacturing consulting and industrial design work for Militia Carry Co.",
+    "authors": ["Andrew Andrade"],
+    "thumbnail": "/img/titanium.jpg",
+    "downloads": [
+      {
+        "href": "http://www.haloculturecanada.com/collections/titanium-flash-edc",
+        "desc": "Purchase Militia EDC Products"
+      }
+    ]
+  }
+]

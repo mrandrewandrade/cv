@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Growing and scaling high performance teams",
+    "date": "2014-14-14",
+    "published": "Conrad Business, Entrepreneurship and Technology Leadership Blog",
+    "caption": "Blog post about how I grew PetroPredict from just an idea to 6 figure revenue within our first year",
+    "thumbnail": "/img/scaling.jpg",
+    "downloads": [
+      {
+        "href": "https://uwaterloo.ca/conrad-business-entrepreneurship-technology/blog/post/scaling-your-startup-team-and-knowledge",
+        "desc": "CBET Blog (abridged)"
+      },
+      {
+        "href": "https://www.linkedin.com/pulse/20140816182325-143036205-growing-and-scaling-high-performance-teams?trk=prof-post",
+        "desc": "Leadership and Management Pulse (Unabridged)"
+      }
+    ]
+  },
+  {
+    "title": "How I won $5000 at a Facebook Hackathon without a single line of code",
+    "date": "2014-03-14",
+    "published": "Opencompute.org Blog",
+    "caption": "A blog post about how I won the opencompute.org summit hackathon by pivoting halfway through the hackathon",
+    "thumbnail": "/img/codeless.jpg",
+    "downloads": [
+      {
+        "href": "http://www.opencompute.org/blog/ocp-hackathon-winner-the-codeless-hack/",
+        "desc": "Blog post (Opencompute.org)"
+      }
+    ]
+  }
+]

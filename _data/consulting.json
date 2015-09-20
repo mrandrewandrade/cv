@@ -1,0 +1,34 @@
+[
+  {
+    "company": "WizardPuff",
+    "caption": "insert caption",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2015/05- Present, ",
+    "position": "Data Scientist",
+    "thumbnail": "/img/wizardpuff.jpg"
+  },
+  {
+    "company": "Militia Everyday Carry Co.",
+    "caption": "insert caption",
+    "location": "Toronto, Ontario (Canada)",
+    "date": "2014/05 - 2014/08, ",
+    "position": "Industrial Designer and Product Design Lead",
+    "thumbnail": "/img/militia.jpg"
+  },
+  {
+    "company": "Peraso Semiconductor Technologies",
+    "caption": "insert caption",
+    "location": "Greater Toronto Area (Canada)",
+    "date": "2013/09-2013/12, ",
+    "position": "Mechanical Manufacuturing Lead",
+    "thumbnail": "/img/peraso.jpg"
+  },
+  {
+    "company": "Top Hat",
+    "caption": "insert caption",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2013/02 - 2013/04 , ",
+    "position": "Campus Ambassador (Sales and Marketing)",
+    "thumbnail": "/img/tophat.jpg"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "title": "AutoBikes: Autonomous Electric Bicycles for First and Last-mile Mobility on Demand",
+    "date": "2015-05-05",
+    "authors": [
+      "E. Wilhelm",
+      "A. Gupta",
+      "S. Modurpalayam",
+      "R. Wang",
+      "B. Walton",
+      "A. Wootton",
+      "T. Jeruzalski",
+      "A. Andrade"
+    ],
+    "published": "International Electric Vehicle Symposium & Exhibition (evs28.org)",
+    "caption": "Autobike",
+    "thumbnail": "/img/autobike.jpg",
+    "downloads": [
+      { "href": "/inc/autobike_poster.pdf", "desc": "Poster (PDF, 2.2 MiB)" },
+      {
+        "href": "https://www.youtube.com/watch?v=3ms3zPXfvR4",
+        "desc": "Video (YouTube)",
+        "popup": "youtube"
+      },
+      {
+        "href": "https://github.com/SUTDMEC/bike_sharing_system_modeling",
+        "desc": "Scability Analysis Code (GitHub)"
+      }
+    ]
+  },
+  {
+    "title": "Multifaceted Approach to Oil Field Segment Analysis using Artificial Intelligence",
+    "date": "2014-09-01",
+    "authors": ["Andrew Andrade", "Maurice Dusseault"],
+    "published": "SPE Canada Student Research Contest",
+    "caption": "AI in Petroleum Industry",
+    "thumbnail": "/img/ai_oilandgas.jpg"
+  }
+]

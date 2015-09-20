@@ -1,0 +1,28 @@
+
+<!-- Talks -->
+<section id="news">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="page-header">News and & Media</h2>
+            </div>
+        </div>
+        {% assign news = site.data.news | sort:"date" %}
+        {% for tn in news reversed %}
+        <div class="row">
+            <div class="col-md-2 col-md-offset-1 col-sm-2 text-right">
+                <h4>{{ n.date | date : "%x" }}</h4>
+            </div>
+            <div class="col-md-8 col-sm-10">
+                <h4>{{ n.title}}</h4>
+                <p class="text-danger">{{ n.location }}</p>
+                {% if n.downloads %}
+                <p>{% for download in n.downloads %}
+                <a href="{{ download.href }}" target="_blank">{{ download.desc }}</a>{% if download != n.downloads.last %}, {% endif %}{% endfor %}
+                </p>{% endif %}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>

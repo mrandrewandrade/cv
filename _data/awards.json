@@ -1,0 +1,269 @@
+[
+  {
+    "date": "2015-03-03 00:00:00",
+    "title": "Best Overall Canadian Co-op Student (Intern) of the Year 2014 ($500)",
+    "location": "Canadian Association for Co-op Education",
+    "links": [{ "href": "http://www.cafce.ca/awardsCSOTY.html", "desc": "Link to award" }]
+  },
+  {
+    "date": "2015-07-21 00:00:00",
+    "title": "First Place at Technical Speaking Competition ($500)",
+    "location": "Sandford Fleming Foundation",
+  },
+  {
+    "date": "2012-06-15 00:00:00",
+    "title": "Third Place Junior Design Competition",
+    "location": "Waterloo Engineering Competition",
+  },
+  {
+    "date": "2013-02-01 00:00:00",
+    "title": "Ambassador of the Month (most sales)",
+    "location": "TopHat"
+  },
+  { "date": "2013-03-01 00:00:00", "title": "Best Sales Team", "location": "TopHat" },
+  {
+    "date": "2014-09-14 00:00:00",
+    "title": "Top 25 percent, Higgs Boson Machine Learning Challenge",
+    "location": "Kaggle Data Science Competitions",
+    "links": [{ "href": "https://www.kaggle.com/c/higgs-boson", "desc": "Link to competition" }]
+  },
+  {
+    "date": "2015-05-17 00:00:00",
+    "title": "Top 25 percent: West Nile Machine learning Challenge",
+    "location": "Kaggle Data Science Competitions",
+    "links": [{ "href": "https://www.kaggle.com/c/predict-west-nile-virus", "desc": "Link to competition" }]
+  },
+  {
+    "date": "2015-03-02 00:00:00",
+    "title": "Emery-Dufault Award for Contributions to Co-op Education ($500)",
+    "location": "Canadian Association for Co-op Education",
+    "links": [{ "href": "http://www.cafce.ca/emery-dufault.html", "desc": "Link to award" }]
+  },
+  {
+    "date": "2015-03-01 00:00:00",
+    "title": "Engineering Co-op Student of the Year ($250)",
+    "location": "University of Waterloo",
+    "links": [{ "href": "https://uwaterloo.ca/hire/2014-co-op-students-year", "desc": "Link to award" }]
+  },
+  {
+    "date": "2014-03-01 00:00:00",
+    "title": "2014 Global Engineering Entrepreneurship Competition Award Winner ($1,500)",
+    "location": "India Institude of Technology Alumni (PANIIT)"
+  },
+  {
+    "date": "2014-09-10 00:00:00",
+    "title": "Third Best Masters Research Paper and Best Undergraduate Talk",
+    "location": "Society in Petroleum Engineers' Canada Wide Research Contest",
+    "links": [
+      {
+        "href": "https://uwaterloo.ca/engineering/news/second-year-students-paper-takes-top-awards-both-undergrad",
+        "desc": "Link to award"
+      }
+    ]
+  },
+  {
+    "date": "2014-05-13 00:00:00",
+    "title": "2014 David McFadden Energy Entrepreneur Challenge Winner ($25,000)",
+    "location": "Ontario Center of Excellence",
+    "links": [
+      {
+        "href": "http://www.ocediscovery.com/news/2014/05/13/first-david-mcfadden-energy-entrepreneur-challenge-winner-announced",
+        "desc": "Link to news release"
+      }
+    ]
+  },
+  {
+    "date": "2014-05-13 00:00:00",
+    "title": "Elevator Pitch Competition winner ($5,000)",
+    "location": "Ontario Center of Excellence",
+    "links": [
+      {
+        "href": "http://www.ocediscovery.com/news/2014/05/13/oce-s-elevator-pitch-competition-winner-announced",
+        "desc": "Link to news release"
+      }
+    ]
+  },
+  {
+    "date": "2014-03-26 00:00:00",
+    "title": "Best Startup at Velocity Fund Finals ($25,000)",
+    "location": "University of Waterloo",
+    "links": [
+      {
+        "href": "https://uwaterloo.ca/engineering/news/waterloo-engineers-dominate-velocity-fund-finals",
+        "desc": "Link to news release"
+      }
+    ]
+  },
+  {
+    "date": "2014-03-26 00:00:00",
+    "title": "Best use of Arduino",
+    "location": "BeMyApp Factory Hackathon",
+    "links": [{ "href": "https://instagram.com/p/mMZzM9tT-l/", "desc": "Link to win mention" }]
+  },
+  {
+    "date": "2014-03-14 00:00:00",
+    "title": "Facebook Hardware Hackathon Winner ($5,000)",
+    "location": "OpenCompute.org Conference",
+    "links": [
+      {
+        "href": "https://twitter.com/opencomputeprj/status/444573023035994112",
+        "desc": "Link to win mention"
+      }
+    ]
+  },
+  {
+    "date": "2013-12-01 00:00:00",
+    "title": "Best Overall Startup",
+    "location": "Velocity Fund, University of Waterloo",
+    "links": [
+      {
+        "href": "http://www.betakit.com/u-of-waterloo-attracts-record-crowd-at-eighth-velocity-fund-finals/",
+        "desc": "Link to news"
+      }
+    ]
+  },
+  {
+    "date": "2014-01-18 00:00:00",
+    "title": "MongoDB Award for best use of MongoDB",
+    "location": "LAHacks"
+  },
+  {
+    "date": "2013-12-31 00:00:00",
+    "title": "Co-op Student of the Year Honorable Mention",
+    "location": "University of Waterloo"
+  },
+  {
+    "date": "2013-12-01 00:00:00",
+    "title": "Best Overall Startup",
+    "location": "Velocity Fund, University of Waterloo",
+    "links": [
+      {
+        "href": "http://www.betakit.com/u-of-waterloo-attracts-record-crowd-at-eighth-velocity-fund-finals/",
+        "desc": "Link to news"
+      }
+    ]
+  },
+  {
+    "date": "2013-12-01 00:00:00",
+    "title": "People's Choice Award for Best Startup",
+    "location": "Velocity Fund, University of Waterloo",
+    "links": [
+      {
+        "href": "http://www.betakit.com/u-of-waterloo-attracts-record-crowd-at-eighth-velocity-fund-finals/",
+        "desc": "Link to news"
+      }
+    ]
+  },
+  {
+    "date": "2013-11-01 00:00:00",
+    "title": "Nicol Entrepreneurial Award ($500) ",
+    "location": "Conrad Business School"
+  },
+  { "date": "2013-07-01 00:00:00", "title": "Developer Movement Yellowbelt", "location": "Microsoft" },
+  {
+    "date": "2013-06-21 00:00:00",
+    "title": "First Place at Autonomous Mobility Challenge",
+    "location": "International Conference on Robotics and Automation",
+    "links": [{ "href": "http://csclub.uwaterloo.ca/~uwnrg/?p=1420", "desc": "Link to team post" }]
+  },
+  {
+    "date": "2013-05-03 00:00:00",
+    "title": "Industrial Undergraduate Research Award ($4,500)",
+    "location": "Natural Sciences and Engineering Research Council of Canada"
+  },
+  {
+    "date": "2013-01-03 00:00:00",
+    "title": "Undergradute Student Research Award ($2,000)",
+    "location": "Natural Sciences and Engineering Research Council of Canada"
+  },
+  {
+    "date": "2012-09-26 00:00:00",
+    "title": "Best Overall First Year Student ($1,250)",
+    "location": "Professional Engineers' of Ontario Foundation Scholarship"
+  },
+  {
+    "date": "2011-09-01 00:00:00",
+    "title": "President's Scholarship for High Acedemic Achievement ($2,000)",
+    "location": "University of Waterloo"
+  },
+  {
+    "date": "2011-06-26 00:00:00",
+    "title": "Highest Overall Average, Port Credit Secondary School ($500)",
+    "location": "Port Credit Secondary School"
+  },
+  {
+    "date": "2011-06-26 00:00:00",
+    "title": "Alumni Excellence Award for Best Overall Academic Student ($750)",
+    "location": "Port Credit Alumni Association",
+    "links": [{ "href": "http://www.pcssalumni.com/Winner-2011b.html", "desc": "Link to award" }]
+  },
+  {
+    "date": "2011-06-26 00:00:00",
+    "title": "Terry Garbutt Memorial Award for School and Community Contributions ($500)",
+    "location": "Port Credit Alumni Association",
+    "links": [{ "href": "http://www.pcssalumni.com/Winner-TG2011.html", "desc": "Link to award" }]
+  },
+  {
+    "date": "2011-06-25 00:00:00",
+    "title": "Vice Principal Award for Technology Development in a Classroom Setting ($200)",
+    "location": "Port Credit Secondary School"
+  },
+  {
+    "date": "2011-06-22 00:00:00",
+    "title": "Ultimate Frisbee Gold Medal",
+    "location": "Regional of Peel Sports Association",
+    "links": [{ "href": "inc/warriors_take_frisbee_title.pdf", "desc": "Link to news article (PDF, 0.5 MiB)" }]
+  },
+  {
+    "date": "2011-05-01 00:00:00",
+    "title": "Silver Medal at CNC Programming at Skills Ontario Competition",
+    "location": "Skills Ontario"
+  },
+  {
+    "date": "2011-03-01 00:00:00",
+    "title": "Honorable Mention Canadian Computing Competition",
+    "location": "University of Waterloo"
+  },
+  {
+    "date": "2010-10-01 00:00:00",
+    "title": "Bronze Medal at the Engineering Olympics",
+    "location": "McMaster University"
+  },
+  {
+    "date": "2010-05-01 00:00:00",
+    "title": "Third place in Precision Machining",
+    "location": "Regional Skills Ontario"
+  },
+  {
+    "date": "2009-05-01 00:00:00",
+    "title": "Sixth Best Overall Team in Robotics",
+    "location": "Skills Ontario"
+  },
+  {
+    "date": "2008-05-01 00:00:00",
+    "title": "Fourth Best Overall Team in Robotics",
+    "location": "Skills Ontario"
+  },
+  {
+    "date": "2005-01-01 00:00:00",
+    "title": "First place Mississauga Lifesaving Club in Junior TeleGames, Fall 2004,",
+    "location": "Canadian Lifesaving Society",
+    "links": [
+      {
+        "href": "http://www.lifesavingsociety.com/lifesaving-sport/results/dev.aspx?type=comp&id=5e17904f-6914-4720-b09f-887425229afc&g=c&min=&max=",
+        "desc": "Link to award"
+      }
+    ]
+  },
+  {
+    "date": "2004-06-01 00:00:00",
+    "title": "Silver Medal in Lifesaving: 50 m tow with fins",
+    "location": "Canadian Lifesaving Society",
+    "links": [
+      {
+        "href": "http://www.lifesavingsociety.com/lifesaving-sport/results/dev.aspx?type=comp&id=5e17904f-6914-4720-b09f-887425229afc&g=M&min=10&max=11",
+        "desc": "Link to award"
+      }
+    ]
+  }
+]

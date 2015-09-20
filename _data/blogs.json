@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Petroleum101.com | The Young Professionals Guide to the Petroeum Industry",
+    "date": "2014-10-01 - Present",
+    "published": "SPE uWaterloo Student Chapter",
+    "caption": "I started Petroleum101 with the purpose to provide the technical background for anyone to enter the petroleum industry and have a great career.  In the first week of launching with SPE uWaterloo, we have over 2500 views from 75 countries.  The blog currently has over 260 suscribers",
+    "thumbnail": "/img/petroleum101.jpg",
+    "downloads": [{ "href": "http://petroleum101.com/", "desc": "Petroleum101.com" }]
+  },
+  {
+    "title": "uWaterloo DataScienceTeam",
+    "date": "2015 (forthcoming!)",
+    "published": "HackTheNorth",
+    "caption": "More details to come!",
+    "thumbnail": "/img/datateam.jpg"
+  }
+]

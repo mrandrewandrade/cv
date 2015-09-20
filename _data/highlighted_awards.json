@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2015-03-03 00:00:00",
+    "title": "Best Overall Canadian Co-op Student (Intern) of the Year 2014",
+    "location": "Canadian Association for Co-op Education",
+    "links": [{ "href": "http://www.cafce.ca/awardsCSOTY.html", "desc": "Link to award" }]
+  },
+  {
+    "date": "2014-09-10 00:00:00",
+    "title": "Third Best Masters Research Paper and Best Undergraduate Talk",
+    "location": "Society in Petroleum Engineers' Canada Wide Research Contest",
+    "links": [
+      {
+        "href": "https://uwaterloo.ca/engineering/news/second-year-students-paper-takes-top-awards-both-undergrad",
+        "desc": "Link to award"
+      }
+    ]
+  },
+  {
+    "date": "2014-05-13 00:00:00",
+    "title": "Energy Entrepreneur Challenge & Startup Pitch Awards Winner ($30,000)",
+    "location": "Ontario Center of Excellence",
+    "links": [
+      {
+        "href": "http://archives.ocediscovery.com/2014/competition-winners.html",
+        "desc": "Link to winner's page"
+      }
+    ]
+  },
+  {
+    "date": "2014-03-26 00:00:00",
+    "title": "Best Startup at Velocity Fund Finals ($25,000)",
+    "location": "University of Waterloo",
+    "links": [
+      {
+        "href": "https://uwaterloo.ca/engineering/news/waterloo-engineers-dominate-velocity-fund-finals",
+        "desc": "Link to news release"
+      }
+    ]
+  },
+  {
+    "date": "2014-03-14 00:00:00",
+    "title": "Facebook Hardware Hackathon Winner ($5,000)",
+    "location": "OpenCompute.org Conference",
+    "links": [
+      {
+        "href": "https://twitter.com/opencomputeprj/status/444573023035994112",
+        "desc": "Link to win mention"
+      }
+    ]
+  }
+]

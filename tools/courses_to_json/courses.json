@@ -1,0 +1,16 @@
+[ { "term" : "2015 : Summer Term",
+    "courses" : 
+    [ { "name" : "Automated Visual Software Analytics",
+        "description"   : "lecture (massive open online course)",
+        "href"   : "tutor" 
+      },
+      { "name" : "Visualization of System Evolution",
+        "description"   : "seminar (MA)",
+        "role"   : "tutor"
+      },
+      { "name" : "Software Analysis and Visualization",
+        "description"   : "project (BA)",
+        "role"   : "supervisor"
+      } ]
+  }
+  ]

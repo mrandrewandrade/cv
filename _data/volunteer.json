@@ -1,0 +1,40 @@
+[
+  {
+    "company": "City of Mississauga",
+    "caption": "Organized Missisauga's New Year's Eve Celebration.  I planned the site area, collaborated with food vendors, performers and other vendors.  During the event I lead teams of volunteers to set up and operate the event.",
+    "location": "Mississauga, Ontario (Canada)",
+    "date": "2012/01, ",
+    "position": "Area Site Plan Manager and Supervisor for New Years Eve",
+    "thumbnail": "/img/mississauga.jpg"
+  },
+  {
+    "company": "Waterloo Engineering",
+    "caption": "Organized a symposium for students to present their personal projects to the public",
+    "location": "University of Waterloo, Ontario (Canada)",
+    "date": "2012/05",
+    "position": "Student Design Symposium Organizer",
+    "thumbnail": "/img/waterlooengineering.jpg"
+  },
+  {
+    "company": "Port Credit Secondy School",
+    "caption": "Motivational speaking to highschool students at Port Credit Secondary School",
+    "location": "Mississauga, Ontario (Canada)",
+    "date": "2012/09 - Present , ",
+    "position": "Alumni Outreach Organizer and Motivational Speaker",
+    "thumbnail": "/img/pcss.jpg"
+  },
+  {
+    "company": "World Community Grid",
+    "caption": "Leading Waterloo's World Community Grid team, uWaterloo's largest distributed computing project leading to over 1000 years of distributed not for profit research computing time",
+    "location": "Waterloo, Ontario (Canada)",
+    "date": "2009/09, ",
+    "position": "Research Promotion Team Lead",
+    "thumbnail": "/img/wcg.jpg",
+    "downloads": [
+      {
+        "href": "http://www.worldcommunitygrid.org/team/viewTeamInfo.do?teamId=D75XNJBR9N1",
+        "desc": "Link to team"
+      }
+    ]
+  }
+]
