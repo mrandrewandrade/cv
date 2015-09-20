@@ -5,7 +5,7 @@
     "location": "Singapore",
     "date": "2015/01 - 2015/04, ",
     "position": "Artificial Intelligence and Self Driving Vehicle Visting Researcher (Part time)",
-    "thumbnail": "/img/sutd.jpg"
+    "thumbnail": "img/sutd.jpg"
   },
   {
     "company": "Waterloo Institute for Sustanable Energy",
@@ -13,7 +13,7 @@
     "location": "University of Waterloo, Ontario (Canada)",
     "date": "2013/01 - 2013/04, ",
     "position": "Undergraduate Research Assistant",
-    "thumbnail": "/img/wise.jpg"
+    "thumbnail": "img/wise.jpg"
   },
   {
     "company": "Institute for Quantum Computing",
@@ -21,6 +21,6 @@
     "location": "Waterloo, Ontario (Canada)",
     "date": "2010/07 - 2010/09, ",
     "position": "Summer Research Student",
-    "thumbnail": "/img/iqc.jpg"
+    "thumbnail": "img/iqc.jpg"
   }
 ]

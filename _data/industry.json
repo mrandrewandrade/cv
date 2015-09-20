@@ -5,7 +5,7 @@
     "location": "California & Prineville (USA) and China",
     "date": "2014/01 - 2014/04, ",
     "position": "Hardware Manufacturing Engineering Intern",
-    "thumbnail": "/img/facebook.jpg"
+    "thumbnail": "img/facebook.jpg"
   },
   {
     "company": "Peraso Semiconductor Technologies",
@@ -13,7 +13,7 @@
     "location": "Toronto, Ontario (Canada)",
     "date": "2013/05 - 2013/08, ",
     "position": "Embedded Software Engineering Intern",
-    "thumbnail": "/img/peraso.jpg"
+    "thumbnail": "img/peraso.jpg"
   },
   {
     "company": "Suncor Energy (PetroCanada)",
@@ -21,7 +21,7 @@
     "location": "Calgary, Alberta (Canada)",
     "date": "2012/09 - 2012/12, ",
     "position": "Resevoir Engineering Intern",
-    "thumbnail": "/img/suncor.jpg"
+    "thumbnail": "img/suncor.jpg"
   },
   {
     "company": "Imtex | Innovative Membrane Technologies",
@@ -29,7 +29,7 @@
     "location": "Mississauga, Ontario (Canada)",
     "date": "2012/01 - 2012/04, ",
     "position": "Mechnical Engineering Intern",
-    "thumbnail": "/img/imtex.jpg"
+    "thumbnail": "img/imtex.jpg"
   },
   {
     "company": "City of Mississauga",
@@ -37,7 +37,7 @@
     "location": "Mississauga, Ontario (Canada)",
     "date": "2009/06 - 2011/06, ",
     "position": "Lifeguard, Lifesaving Instructor, Aquatics Camp Leader, Deck Supervisor",
-    "thumbnail": "/img/mississauga.jpg"
+    "thumbnail": "img/mississauga.jpg"
   },
   {
     "company": "Chrysler",
@@ -45,7 +45,7 @@
     "location": "Brampton, Ontario (Canada)",
     "date": "2011/06 - 2011/08, ",
     "position": "Summer Student",
-    "thumbnail": "/img/chrysler.jpg"
+    "thumbnail": "img/chrysler.jpg"
   },
   {
     "company": "Cantech Tool and Machine Co.",
@@ -53,6 +53,6 @@
     "location": "Mississauga, Ontario (Canada)",
     "date": "2009/06 - 2009/09, ",
     "position": "Summer Co-op Student Machinist and CNC Operator",
-    "thumbnail": "/img/cantech.jpg"
+    "thumbnail": "img/cantech.jpg"
   }
 ]

@@ -4,14 +4,14 @@
     "date": "2012-08-14",
     "published": "Data Structures and Algorithms in a Nutshell",
     "caption": "A video recitation accompanying the Shortest Path Algorithm section in Data Structures and Algorithms in a Nutshell by Alex Wong",
-    "thumbnail": "/img/shortest_path.jpg",
+    "thumbnail": "img/shortest_path.jpg",
     "downloads": [{ "href": "https://www.youtube.com/watch?v=rSH3bXexxoM", "desc": "Video (youtube)" }]
   },
   {
     "title": "Controlling a Linear Actuator using PWM",
     "date": "2014-12-15",
     "caption": "A quick video explaining how the Frigelli L12 servo operates under PWM",
-    "thumbnail": "/img/frigelli.jpg",
+    "thumbnail": "img/frigelli.jpg",
     "downloads": [{ "href": "https://www.youtube.com/watch?v=-V56Yx6NVNU", "desc": "Video (youtube)" }]
   },
   {
@@ -19,7 +19,7 @@
     "date": "2014-03-14",
     "published": "The BeMyApp Factory Hackathon - San Francisco",
     "caption": "The hackathon log and later tutorial of how to control a Nintendo 3DS from a Twitch.tv IRC stream using Arduino",
-    "thumbnail": "/img/twitchplayshardware.jpg",
+    "thumbnail": "img/twitchplayshardware.jpg",
     "downloads": [
       {
         "href": "https://github.com/mrandrewandrade/TwitchPlaysHardware",
@@ -34,7 +34,7 @@
     "date": "2014-09-26",
     "published": "HackTheNorth",
     "caption": "A guide on how to create custom images on the pebble",
-    "thumbnail": "/img/pebble_tutorial.jpg",
+    "thumbnail": "img/pebble_tutorial.jpg",
     "downloads": [
       {
         "href": "https://github.com/mrandrewandrade/first_pebble_tutorial",

@@ -4,7 +4,7 @@
     "date": "2014-14-14",
     "published": "Conrad Business, Entrepreneurship and Technology Leadership Blog",
     "caption": "Blog post about how I grew PetroPredict from just an idea to 6 figure revenue within our first year",
-    "thumbnail": "/img/scaling.jpg",
+    "thumbnail": "img/scaling.jpg",
     "downloads": [
       {
         "href": "https://uwaterloo.ca/conrad-business-entrepreneurship-technology/blog/post/scaling-your-startup-team-and-knowledge",
@@ -21,7 +21,7 @@
     "date": "2014-03-14",
     "published": "Opencompute.org Blog",
     "caption": "A blog post about how I won the opencompute.org summit hackathon by pivoting halfway through the hackathon",
-    "thumbnail": "/img/codeless.jpg",
+    "thumbnail": "img/codeless.jpg",
     "downloads": [
       {
         "href": "http://www.opencompute.org/blog/ocp-hackathon-winner-the-codeless-hack/",

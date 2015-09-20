@@ -3,56 +3,56 @@
     "date": "2014/05 - Present",
     "position": "Petroleum101.com Lead",
     "company": "SPE uWaterloo Student Chapter",
-    "thumbnail": "/img/speuwaterloo.jpg",
+    "thumbnail": "img/speuwaterloo.jpg",
     "caption": "Leading the education initiative at the SPE uWaterloo Chapter"
   },
   {
     "date": "2013/11 - 2014/03",
     "position": "Advisor",
     "company": "University of Waterloo Petroleum Energy Association",
-    "thumbnail": "/img/uwpea.jpg",
+    "thumbnail": "img/uwpea.jpg",
     "caption": "Advised the group until the merger with SPE uWaterloo"
   },
   {
     "date": "2013/05 - 2013/11",
     "position": "Events & Marketing Lead",
     "company": "University of Waterloo Petroleum Energy Association",
-    "thumbnail": "/img/uwpea.jpg",
+    "thumbnail": "img/uwpea.jpg",
     "caption": "Organized and marketing talks, meet and greets and other events on campus leading to 100+ membership and regular turn out"
   },
   {
     "date": "2012/09 - 2013/10",
     "position": "Macrofabrication Lead (Mechanical)",
     "company": "University of Waterloo Nanorobotics Group (UWNRG)",
-    "thumbnail": "/img/uwnrg.jpg",
+    "thumbnail": "img/uwnrg.jpg",
     "caption": "Got promoted from a technical member to the team lead for the macrofabrication (mechanical) work necessary for the group. I lead a team of three students to design and build the control system which won ICRA 2013 mobile robotics competition"
   },
   {
     "date": "2013/05 - 2013/09",
     "position": "Advisor",
     "company": "University of Waterloo Entrepreneurship Society (UWES)",
-    "thumbnail": "/img/uwentsoc.jpg",
+    "thumbnail": "img/uwentsoc.jpg",
     "caption": "Collaborated with UWES and UWPEA to promote entrepreneurship in the petroleum and energy industry"
   },
   {
     "date": "2010/04 - 2011/05",
     "position": "Leadership Instructor",
     "company": "Lifesaving Society",
-    "thumbnail": "/img/lifesaving.jpg",
+    "thumbnail": "img/lifesaving.jpg",
     "caption": "Taught classes in leadership and lifesaving techniques in an aquatics environment"
   },
   {
     "date": "2008/05 - 2009/08",
     "position": "Cadet Leader Instructor",
     "company": "Royal Canadian Army Cadets",
-    "thumbnail": "/img/rca.jpg",
+    "thumbnail": "img/rca.jpg",
     "caption": "Leadership and instructional training from the Royal Canadian Army Cadets"
   },
   {
     "date": "2005/04-2010/03",
     "position": "Founding Squire",
     "company": "Colubian Squires",
-    "thumbnail": "/img/squires.jpg",
+    "thumbnail": "img/squires.jpg",
     "caption": "Founded the local Columbian squires circle eventually got knighted when I turned 18"
   }
 ]

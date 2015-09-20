@@ -14,7 +14,7 @@
     ],
     "published": "International Electric Vehicle Symposium & Exhibition (evs28.org)",
     "caption": "Autobike",
-    "thumbnail": "/img/autobike.jpg",
+    "thumbnail": "img/autobike.jpg",
     "downloads": [
       { "href": "/inc/autobike_poster.pdf", "desc": "Poster (PDF, 2.2 MiB)" },
       {
@@ -34,6 +34,6 @@
     "authors": ["Andrew Andrade", "Maurice Dusseault"],
     "published": "SPE Canada Student Research Contest",
     "caption": "AI in Petroleum Industry",
-    "thumbnail": "/img/ai_oilandgas.jpg"
+    "thumbnail": "img/ai_oilandgas.jpg"
   }
 ]
