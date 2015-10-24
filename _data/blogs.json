@@ -8,10 +8,11 @@
     "downloads": [{ "href": "http://petroleum101.com/", "desc": "Petroleum101.com" }]
   },
   {
-    "title": "uWaterloo DataScienceTeam",
-    "date": "2015 (forthcoming!)",
-    "published": "HackTheNorth",
-    "caption": "More details to come!",
-    "thumbnail": "img/datateam.jpg"
+    "title": "Andrew Andrade's Personal Blog",
+    "date": "2014-03-01- Present",
+    "published": "mrandrewandrade.com/blog",
+    "caption": "Check out my personal blog!",
+    "thumbnail": "img/aa.png"
+    "downloads": [{ "href": "http://mranderwandrade.com/blog", "desc": "mrandrewandrade.com/blog" }]
   }
 ]
