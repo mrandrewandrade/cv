@@ -16,7 +16,7 @@
     "caption": "Autobike",
     "thumbnail": "img/autobike.jpg",
     "downloads": [
-      { "href": "/inc/autobike_poster.pdf", "desc": "Poster (PDF, 2.2 MiB)" },
+      { "href": "inc/autobike_poster.pdf", "desc": "Poster (PDF, 2.2 MiB)" },
       {
         "href": "https://www.youtube.com/watch?v=3ms3zPXfvR4",
         "desc": "Video (YouTube)",
