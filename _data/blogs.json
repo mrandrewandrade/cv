@@ -10,9 +10,7 @@
   {
     "title": "Andrew Andrade's Personal Blog",
     "date": "2014-03-01- Present",
-    "published": "mrandrewandrade.com/blog",
-    "caption": "Check out my personal blog!",
     "thumbnail": "img/aa.png",
-    "downloads": [{ "href": "http://mranderwandrade.com/blog", "desc": "mrandrewandrade.com/blog" }]
+    "downloads": [{ "href": "http://mrandrewandrade.com/blog", "desc": "mrandrewandrade.com/blog" }]
   }
 ]
