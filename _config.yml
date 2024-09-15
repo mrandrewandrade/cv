@@ -1,7 +1,7 @@
 # Site settings
 timezone: Toronto
 baseurl: "" 
-url: "http://mrandrewandrade.github.io" 
+url: "https://mrandrewandrade.github.io" 
 
 title: Andrew Andrade's Curriculum Vitae
 author: Andrew Andrade
